@@ -5,7 +5,7 @@ edition = "2024"
 
 [dependencies]
 mint = { version = "0.5", optional = true }
-red4ext-rs = { git = "https://github.com/Roms1383/red4ext-rs", branch = "chore/next" }
+red4ext-rs = { git = "https://github.com/Roms1383/red4ext-rs", branch = "chore/locstring-display" }
 
 [package.metadata.release]
 pre-release-commit-message = "chore: bump version"
